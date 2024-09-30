@@ -1,7 +1,7 @@
 import React from 'react'
-import vector01 from "../assets/Waterresearch.jpg";
+import vector01 from '../../assets/waterresearch.jpg';
 
-function Herosection() {
+function Home() {
   return (
     <div>
       <div className=" flex h-screen w-screen bg-white overflow-x-hidden relative">
@@ -28,4 +28,4 @@ function Herosection() {
   )
 }
 
-export default Herosection
+export default Home
