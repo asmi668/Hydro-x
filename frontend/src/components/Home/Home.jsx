@@ -1,5 +1,5 @@
 import React from 'react'
-import vector01 from '../../assets/waterresearch.jpg';
+import waterreasearch from '/src/assets/waterresearch.jpg';
 
 function Home() {
   return (
@@ -19,7 +19,7 @@ function Home() {
 
         </div>
         <div className="right w-2/5 h-screen bg-white content-center rounded-l-full relative">
-        <img className='w-3/4 h-3/4 relative left-20 rounded-l-full bottom-10'  src={vector01} alt="vector" /></div>
+        <img className='w-3/4 h-3/4 relative left-20 rounded-l-full bottom-10'  src={waterreasearch} alt="vector" /></div>
 
         
        
